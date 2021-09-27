@@ -5,277 +5,277 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - name: 加拿大1 tg@freebaipiao
+  - name: 加拿大1 20984
     server: 208.78.41.195
     port: 49396
     type: ss
     cipher: aes-256-gcm
     password: BdRWC38L5JUDMTYNNxJGcUwB
-  - name: 加拿大2 tg@freebaipiao
+  - name: 加拿大2 20984
     server: 208.78.41.195
     port: 48938
     type: ss
     cipher: aes-256-gcm
     password: 4ejJ8n5ddLuYDUHGXJre2ufJ
-  - name: 巴基斯坦1 tg@freebaipiao
+  - name: 巴基斯坦1 20984
     server: 5.189.202.16
     port: 41676
     type: ss
     cipher: aes-256-gcm
     password: z6pH3RyttkRWhJ5tpRyt6dYk
-  - name: 巴基斯坦2 tg@freebaipiao
+  - name: 巴基斯坦2 20984
     server: 5.189.202.16
     port: 44820
     type: ss
     cipher: aes-256-gcm
     password: jspgz9G3VmvBMCgMUWLBaZHu
-  - name: 巴基斯坦3 tg@freebaipiao
+  - name: 巴基斯坦3 20984
     server: 5.189.202.16
     port: 44745
     type: ss
     cipher: aes-256-gcm
     password: fyXdw87yCH9SAmFkPvsvLVqC
-  - name: 巴基斯坦4 tg@freebaipiao
+  - name: 巴基斯坦4 20984
     server: 5.189.202.16
     port: 50695
     type: ss
     cipher: aes-256-gcm
     password: gqtwGu9bVreJqL3FTHSVKGzy
-  - name: 巴基斯坦5 tg@freebaipiao
+  - name: 巴基斯坦5 20984
     server: 5.189.202.16
     port: 31944
     type: ss
     cipher: aes-256-gcm
     password: aYNeKDMzYQYw4KbUbJA8Wszq
-  - name: 巴基斯坦6 tg@freebaipiao
+  - name: 巴基斯坦6 20984
     server: 5.189.202.16
     port: 41676
     type: ss
     cipher: aes-256-gcm
     password: z6pH3RyttkRWhJ5tpRyt6dYk
-  - name: 德国1 tg@freebaipiao
+  - name: 德国1 20984
     server: 89.163.212.75
     port: 2375
     type: ss
     cipher: aes-256-gcm
     password: faBAoD54k87UJG7
-  - name: 德国2 tg@freebaipiao
+  - name: 德国2 20984
     server: 45.134.224.20
     port: 44236
     type: ss
     cipher: aes-256-gcm
     password: FWrXcxPZjJxAN89xLgqY3Acp
-  - name: 意大利1 tg@freebaipiao
+  - name: 意大利1 20984
     server: 217.138.219.229
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 意大利2 tg@freebaipiao
+  - name: 意大利2 20984
     server: 217.138.219.229
     port: 49396
     type: ss
     cipher: aes-256-gcm
     password: BdRWC38L5JUDMTYNNxJGcUwB
-  - name: 意大利3 tg@freebaipiao
+  - name: 意大利3 20984
     server: 217.138.219.229
     port: 48938
     type: ss
     cipher: aes-256-gcm
     password: 4ejJ8n5ddLuYDUHGXJre2ufJ
-  - name: 意大利4 tg@freebaipiao
+  - name: 意大利4 20984
     server: 37.120.207.5
     port: 33992
     type: ss
     cipher: aes-256-gcm
     password: 8n6pwAcrrv2pj6tFY2p3TbQ6
-  - name: 捷克1 tg@freebaipiao
+  - name: 捷克1 20984
     server: 217.138.220.131
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 捷克2 tg@freebaipiao
+  - name: 捷克2 20984
     server: 217.138.199.179
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 波兰1 tg@freebaipiao
+  - name: 波兰1 20984
     server: 91.205.230.160
     port: 37588
     type: ss
     cipher: aes-256-gcm
     password: kD9vkjnE6dsUzwQfvKkPkQAd
-  - name: 波兰2 tg@freebaipiao
+  - name: 波兰2 20984
     server: 5.187.49.189
     port: 33992
     type: ss
     cipher: aes-256-gcm
     password: 8n6pwAcrrv2pj6tFY2p3TbQ6
-  - name: 罗马尼亚1 tg@freebaipiao
+  - name: 罗马尼亚1 20984
     server: 193.29.107.163
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 罗马尼亚2 tg@freebaipiao
+  - name: 罗马尼亚2 20984
     server: 89.37.95.23
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 罗马尼亚3 tg@freebaipiao
+  - name: 罗马尼亚3 20984
     server: 194.37.96.213
     port: 48938
     type: ss
     cipher: aes-256-gcm
     password: 4ejJ8n5ddLuYDUHGXJre2ufJ
-  - name: 美国1 tg@freebaipiao
+  - name: 美国1 20984
     server: 143.244.56.230
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 美国2 tg@freebaipiao
+  - name: 美国2 20984
     server: 143.244.57.99
     port: 49468
     type: ss
     cipher: aes-256-gcm
     password: LsYSQDxmPj9AcWpSX5HrYfu6
-  - name: 美国3 tg@freebaipiao
+  - name: 美国3 20984
     server: 143.244.57.99
     port: 50024
     type: ss
     cipher: aes-256-gcm
     password: b2jDPHUQxCNa2KmGHZjy7C4B
-  - name: 美国4 tg@freebaipiao
+  - name: 美国4 20984
     server: 143.244.57.99
     port: 40093
     type: ss
     cipher: aes-256-gcm
     password: x23Z4LGkGDkThZ9Kaz4DURQp
-  - name: 美国5 tg@freebaipiao
+  - name: 美国5 20984
     server: 84.17.41.83
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 美国6 tg@freebaipiao
+  - name: 美国6 20984
     server: 143.244.57.99
     port: 44539
     type: ss
     cipher: aes-256-gcm
     password: r6hDrkP4Et6EENTS8Qy7Tcmg
-  - name: 美国7 tg@freebaipiao
+  - name: 美国7 20984
     server: 84.17.41.77
     port: 49339
     type: ss
     cipher: aes-256-gcm
     password: suucSeVLmt6PQKAP77NtGw9x
-  - name: 美国8 tg@freebaipiao
+  - name: 美国8 20984
     server: 143.244.57.99
     port: 42304
     type: ss
     cipher: aes-256-gcm
     password: p26v2JwhQVHDHsXk66fXt56r
-  - name: 美国9 tg@freebaipiao
+  - name: 美国9 20984
     server: 143.244.57.99
     port: 40282
     type: ss
     cipher: aes-256-gcm
     password: Pvvaw486867D2w4yctL2ULTQ
-  - name: 美国10 tg@freebaipiao
+  - name: 美国10 20984
     server: 143.244.57.99
     port: 35294
     type: ss
     cipher: aes-256-gcm
     password: J9Y2ncrdPEC38gwydNFFGBna
-  - name: 美国11 tg@freebaipiao
+  - name: 美国11 20984
     server: 143.244.57.99
     port: 44745
     type: ss
     cipher: aes-256-gcm
     password: fyXdw87yCH9SAmFkPvsvLVqC
-  - name: 美国12 tg@freebaipiao
+  - name: 美国12 20984
     server: 143.244.57.99
     port: 48938
     type: ss
     cipher: aes-256-gcm
     password: 4ejJ8n5ddLuYDUHGXJre2ufJ
-  - name: 美国13 tg@freebaipiao
+  - name: 美国13 20984
     server: 143.244.57.99
     port: 33998
     type: ss
     cipher: aes-256-gcm
     password: NHwQTPLCfaTMSqTnU3mjcSxe
-  - name: 隐藏节点 美国14 tg@freebaipiao
+  - name: 隐藏节点 美国14 20984
     server: 154.16.168.186
     port: 31764
     type: ss
     cipher: aes-256-gcm
     password: YgusH2MWA8PWc3p2VDsR7AVv
-  - name: 隐藏节点 美国15 tg@freebaipiao
+  - name: 隐藏节点 美国15 20984
     server: 104.200.131.167
     port: 46642
     type: ss
     cipher: aes-256-gcm
     password: gYL83DQWXuDbxmZAVVtUTXaK
-  - name: 英国1 tg@freebaipiao
+  - name: 英国1 20984
     server: 195.181.171.233
     port: 49396
     type: ss
     cipher: aes-256-gcm
     password: BdRWC38L5JUDMTYNNxJGcUwB
-  - name: 英国2 tg@freebaipiao
+  - name: 英国2 20984
     server: 89.238.130.253
     port: 49339
     type: ss
     cipher: aes-256-gcm
     password: suucSeVLmt6PQKAP77NtGw9x
-  - name: 英国3 tg@freebaipiao
+  - name: 英国3 20984
     server: 84.17.53.227
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 英国4 tg@freebaipiao
+  - name: 英国4 20984
     server: 89.238.130.253
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 英国5 tg@freebaipiao
+  - name: 英国5 20984
     server: 84.17.53.86
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 英国6 tg@freebaipiao
+  - name: 英国6 20984
     server: 185.188.61.119
     port: 43893
     type: ss
     cipher: aes-256-gcm
     password: YyCBeDdYX4cadHpCkkmdJLq8
-  - name: 奥地利 tg@freebaipiao
+  - name: 奥地利 20984
     server: 5.253.207.85
     port: 49396
     type: ss
     cipher: aes-256-gcm
     password: BdRWC38L5JUDMTYNNxJGcUwB
-  - name: 隐藏节点 阿根廷 tg@freebaipiao
+  - name: 隐藏节点 阿根廷 20984
     server: 91.206.168.29
     port: 48938
     type: ss
     cipher: aes-256-gcm
     password: 4ejJ8n5ddLuYDUHGXJre2ufJ
-  - name: 欧洲 tg@freebaipiao
+  - name: 欧洲 20984
     server: 138.199.16.130
     port: 47121
     type: ss
     cipher: aes-256-gcm
     password: CTK8GXFQgKYQErrghPJfZ6tk
-  - name: 比利时 tg@freebaipiao
+  - name: 比利时 20984
     server: 217.138.211.219
     port: 48938
     type: ss
@@ -287,146 +287,146 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -437,146 +437,146 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -592,49 +592,49 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 加拿大1 tg@freebaipiao
-      - 加拿大2 tg@freebaipiao
-      - 巴基斯坦1 tg@freebaipiao
-      - 巴基斯坦2 tg@freebaipiao
-      - 巴基斯坦3 tg@freebaipiao
-      - 巴基斯坦4 tg@freebaipiao
-      - 巴基斯坦5 tg@freebaipiao
-      - 巴基斯坦6 tg@freebaipiao
-      - 德国1 tg@freebaipiao
-      - 德国2 tg@freebaipiao
-      - 意大利1 tg@freebaipiao
-      - 意大利2 tg@freebaipiao
-      - 意大利3 tg@freebaipiao
-      - 意大利4 tg@freebaipiao
-      - 捷克1 tg@freebaipiao
-      - 捷克2 tg@freebaipiao
-      - 波兰1 tg@freebaipiao
-      - 波兰2 tg@freebaipiao
-      - 罗马尼亚1 tg@freebaipiao
-      - 罗马尼亚2 tg@freebaipiao
-      - 罗马尼亚3 tg@freebaipiao
-      - 美国1 tg@freebaipiao
-      - 美国2 tg@freebaipiao
-      - 美国3 tg@freebaipiao
-      - 美国4 tg@freebaipiao
-      - 美国5 tg@freebaipiao
-      - 美国6 tg@freebaipiao
-      - 美国7 tg@freebaipiao
-      - 美国8 tg@freebaipiao
-      - 美国9 tg@freebaipiao
-      - 美国10 tg@freebaipiao
-      - 美国11 tg@freebaipiao
-      - 美国12 tg@freebaipiao
-      - 美国13 tg@freebaipiao
-      - 英国1 tg@freebaipiao
-      - 英国2 tg@freebaipiao
-      - 英国3 tg@freebaipiao
-      - 英国4 tg@freebaipiao
-      - 英国5 tg@freebaipiao
-      - 英国6 tg@freebaipiao
-      - 奥地利 tg@freebaipiao
-      - 欧洲 tg@freebaipiao
-      - 比利时 tg@freebaipiao
+      - 加拿大1 20984
+      - 加拿大2 20984
+      - 巴基斯坦1 20984
+      - 巴基斯坦2 20984
+      - 巴基斯坦3 20984
+      - 巴基斯坦4 20984
+      - 巴基斯坦5 20984
+      - 巴基斯坦6 20984
+      - 德国1 20984
+      - 德国2 20984
+      - 意大利1 20984
+      - 意大利2 20984
+      - 意大利3 20984
+      - 意大利4 20984
+      - 捷克1 20984
+      - 捷克2 20984
+      - 波兰1 20984
+      - 波兰2 20984
+      - 罗马尼亚1 20984
+      - 罗马尼亚2 20984
+      - 罗马尼亚3 20984
+      - 美国1 20984
+      - 美国2 20984
+      - 美国3 20984
+      - 美国4 20984
+      - 美国5 20984
+      - 美国6 20984
+      - 美国7 20984
+      - 美国8 20984
+      - 美国9 20984
+      - 美国10 20984
+      - 美国11 20984
+      - 美国12 20984
+      - 美国13 20984
+      - 英国1 20984
+      - 英国2 20984
+      - 英国3 20984
+      - 英国4 20984
+      - 英国5 20984
+      - 英国6 20984
+      - 奥地利 20984
+      - 欧洲 20984
+      - 比利时 20984
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
